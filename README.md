@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Preowned-car-dealer-website
-Nodejs, express, mongodb
-=======
+
 
 # Preowned car dealer website - Mahavir motors
 
@@ -25,11 +22,9 @@ Nodejs, express, mongodb
 
 
 
+![home](https://github.com/komal65/Preowned-car-dealer-website/assets/114643264/a2c28898-3e72-4311-a3e4-39ecc0253853)
+![reviews](https://github.com/komal65/Preowned-car-dealer-website/assets/114643264/062630df-5af4-497f-8696-746fbe56b552)
 
 
 
 
-![image](https://github.com/komal65/preowned-car-dealer-website/public/images/uploads/home.png)
-![image](https://github.com/komal65/preowned-car-dealer-website/public/images/uploads/reviews.png)
-
->>>>>>> 9f670ec (files added)
