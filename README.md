@@ -1,7 +1,4 @@
 
-# Preowned-car-dealer-website
-Nodejs, express, mongodb
-=======
 
 # Preowned car dealer website - Mahavir motors
 
